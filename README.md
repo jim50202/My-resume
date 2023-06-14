@@ -1,10 +1,11 @@
+<!DOCTYPE html>
 <html>
 <head>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
   <title>We Help application</title>
 </head>
 <body>
-  <h><font size="6"><font color="green">個人簡介</font></h>
+  <h1><font size="6"><font color="green">個人簡介</font></h1>
 	<p>我是吳孟勳。畢業於醫學檢驗系，對於數據分析有初步的認識，求學生涯時也自己研究理財等跨領域知識以及完成教育學程。</p>
 	<p>從事醫療領域工作了幾年，對於理想工作環境，能夠在沒有邊界的環境中工作，這樣我可以充分發揮自己的創造力和想像力，並將其應用於工作中。</p>
 	<p>我是一個富有挑戰精神的人，喜歡面對新的挑戰並解決困難。</p>
@@ -17,7 +18,9 @@
 	<p>3. PAPAYA線上課程</p>
 	<p>4. 彭彭線上課程</p>
   <h3><font size="6"><font color="green">如果參與這個計畫，會怎麼安排學習時間</font></h3>
-  	<p>全職投入寫程式課程</p>
+  	<p>
+	全職投入寫程式課程
+	</p>
   <h4><font size="6"><font color="green">是否有想要加入的軟體公司？為什麼想加入該公司？</font></h4>
   	<p>
 	能讓我跨國工作的軟體公司都是我的目標，因為我想成為自由的工作者
